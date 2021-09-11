@@ -15,3 +15,6 @@ lien vers l'éditeur: [ici](https://editor.p5js.org/)
 # le paint
 
 <iframe width="640" height="400" frameborder="0" src="https://preview.p5js.org/damii-en/embed/QWIO7tlnY">< iframe>
+
+# la course
+<iframe width="900" height="400" src="https://preview.p5js.org/damii-en/embed/WBtB3TPvK"></iframe>
